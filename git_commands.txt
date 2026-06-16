@@ -8,3 +8,4 @@ GitHub Commands
 2)Solve merge conflict!
 >>>>>>> b747ddc586aedd0f2caa2d75ebc71c367b9797f8
 
+3) Command 3
