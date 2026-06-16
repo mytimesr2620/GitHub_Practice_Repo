@@ -2,5 +2,9 @@ GitHub Commands
 
 1)git clone <HTTP URL of Git Repo> : This will clone Cloud or Remote repo to the local device
 
+<<<<<<< HEAD
 2)Solve merge conflict! 
+=======
+2)Solve merge conflict!
+>>>>>>> b747ddc586aedd0f2caa2d75ebc71c367b9797f8
 
