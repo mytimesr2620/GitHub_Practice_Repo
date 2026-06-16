@@ -15,5 +15,3 @@ GitHub Commands
 >>>>>>> 8cea02d0e6455bfde4f0d82f51fc2a6a91626909
 
 4) Modified Testing soft commit reset!
-
-5) revert the commit in the remote repo!
