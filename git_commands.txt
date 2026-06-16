@@ -2,5 +2,7 @@ GitHub Commands
 
 1)git clone <HTTP URL of Git Repo> : This will clone Cloud or Remote repo to the local device
 
-2)command 2 
+2)command 2
+
+3)command 3 
 
