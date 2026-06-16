@@ -8,5 +8,8 @@ GitHub Commands
 2)Solve merge conflict!
 >>>>>>> b747ddc586aedd0f2caa2d75ebc71c367b9797f8
 
-3) Commnad 3
-
+<<<<<<< HEAD
+3) This is the local change!
+=======
+3) This is the remote change!
+>>>>>>> 8cea02d0e6455bfde4f0d82f51fc2a6a91626909
