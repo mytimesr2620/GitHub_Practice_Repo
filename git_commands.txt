@@ -13,3 +13,5 @@ GitHub Commands
 =======
 3) This is the remote change!
 >>>>>>> 8cea02d0e6455bfde4f0d82f51fc2a6a91626909
+
+4) Modified Testing soft commit reset!
